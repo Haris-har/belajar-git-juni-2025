@@ -1,2 +1,4 @@
 Tambah table
 Tambah layout
+Tambah link
+Tambah gambar
