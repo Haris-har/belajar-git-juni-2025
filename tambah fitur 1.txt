@@ -3,3 +3,4 @@ Tambah layout
 Tambah link ke youtube
 Tambah gambar macbook Air 13 M1 2020
 Tambah home login
+Tambah form registrasi
